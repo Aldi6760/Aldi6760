@@ -1,7 +1,5 @@
 <img src="./banner.png" alt="ALDISTNT banner" width="100%" />
 
-
-
 ---
 
 ## 💫 About Me
@@ -24,11 +22,12 @@
 
 <div align="center">
 
-### 🌟 Conntact With Me 
+### 🌟 Contact With Me
 
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http://instagram.com/aldiistt_/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aldiistt_)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldysutanto537@gmail.com)
+
+---
 
 ### 🧰 Languages & Tools I Have Placed My Hands On
 
@@ -72,14 +71,24 @@
 
 ---
 
+### 🎮 Arcade Games
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Aldi6760/Aldi6760/output/breakout-contribution-graph.svg">
+</picture>
+
+---
+
 ### 💡 Motivation
 
 <img src="./motivasi.png" alt="Motivation" width="70%" />
 
----
-
-*⭐ Thanks for stopping by my profile!*
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
