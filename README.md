@@ -1,4 +1,4 @@
-<img src="./profile.png" alt="ALDISTNT banner" width="100%" />
+<img src="./banner.png" alt="ALDISTNT banner" width="100%" />
 
 <div align="center">
 
