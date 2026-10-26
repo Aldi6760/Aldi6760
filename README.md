@@ -88,11 +88,6 @@
 
 ---
 
-### 💰 Support Me
-
-<!-- Replace "username" with your Buy Me a Coffee username, then remove the comment markers -->
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/username) -->
-
 *⭐ Thanks for stopping by my profile!*
 
 </div>
