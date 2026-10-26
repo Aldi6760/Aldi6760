@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aldi+here+%F0%9F%94%A5+!;Learning+Laravel+Every+Day+%F0%9F%9A%80;Building+Cool+Things+for+the+Web+%F0%9F%92%BB" alt="Typing SVG" />
 
-<h3>Hello 👋 I'm Aldi Sutanto</h3>
 
 </div>
 
@@ -30,15 +29,11 @@
 
 <div align="center">
 
-### 🌟 Follow Me On
+### 🌟 Conntact With Me 
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aldi6760)
-<!-- Replace with your own links, then remove the comment markers -->
-<!-- [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username) -->
-<!-- [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username) -->
 
----
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http://instagram.com/aldiistt_/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldysutanto537@gmail.com)
 
 ### 🧰 Languages & Tools I Have Placed My Hands On
 
