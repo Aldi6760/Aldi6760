@@ -1,11 +1,6 @@
 <img src="./banner.png" alt="ALDISTNT banner" width="100%" />
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aldi+here+%F0%9F%94%A5+!;Learning+Laravel+Every+Day+%F0%9F%9A%80;Building+Cool+Things+for+the+Web+%F0%9F%92%BB" alt="Typing SVG" />
-
-
-</div>
 
 ---
 
